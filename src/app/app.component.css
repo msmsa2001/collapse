@@ -1,0 +1,10 @@
+button{
+    background: none;
+    border: none;
+}
+mat-tree-node{
+background: rgb(255, 246, 246) !important;
+-webkit-box-shadow: -1px 2px 5px 0px rgba(168,173,171,1);
+-moz-box-shadow: -1px 2px 5px 0px rgba(168,173,171,1);
+box-shadow: -1px 2px 5px 0px rgba(168,173,171,1);
+}
